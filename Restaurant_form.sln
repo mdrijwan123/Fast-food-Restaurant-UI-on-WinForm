@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant_form", "Restaurant_form\Restaurant_form.csproj", "{1F1FBC8E-4882-4FA7-AB77-D02B2BE1113D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1FBC8E-4882-4FA7-AB77-D02B2BE1113D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1FBC8E-4882-4FA7-AB77-D02B2BE1113D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1FBC8E-4882-4FA7-AB77-D02B2BE1113D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1FBC8E-4882-4FA7-AB77-D02B2BE1113D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
